@@ -9,3 +9,9 @@ function happyHolidaysTo(name)
 {
   return "Happy holidays, "+ name+"!"
 }
+
+//The user will input the holiday followed by their name.
+function happyCustomHolidayTo(holiday,name)
+{
+  return "Happy " + holiday + "," + name + "!"
+}
