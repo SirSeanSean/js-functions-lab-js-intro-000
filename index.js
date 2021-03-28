@@ -13,7 +13,7 @@ function happyHolidaysTo(name)
 //The user will input the holiday followed by their name.
 function happyCustomHolidayTo(holiday,name)
 {
-  return "Happy " + holiday + "," + name + "!"
+  return "Happy " + holiday + ", " + name + "!"
 }
 
 //The user will input the holiday followed by the days left
