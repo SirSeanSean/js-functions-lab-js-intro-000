@@ -15,3 +15,9 @@ function happyCustomHolidayTo(holiday,name)
 {
   return "Happy " + holiday + "," + name + "!"
 }
+
+//The user will input the holiday followed by the days left
+function holidayCountdown(holiday, days)
+{
+  return "It's " + days + "days until " + holiday + "!"
+}
