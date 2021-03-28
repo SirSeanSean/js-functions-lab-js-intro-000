@@ -7,5 +7,5 @@ function happyHolidays()
 //The user will input their name and it will spit it back out
 function happyHolidaysTo(name)
 {
-  return "Happy holidays, ${name}!"
+  return "Happy holidays, "+ name+"!"
 }
