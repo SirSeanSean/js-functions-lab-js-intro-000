@@ -19,5 +19,5 @@ function happyCustomHolidayTo(holiday,name)
 //The user will input the holiday followed by the days left
 function holidayCountdown(holiday, days)
 {
-  return "It's " + days + "days until " + holiday + "!"
+  return "It's " + days + " days until " + holiday + "!"
 }
